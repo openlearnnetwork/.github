@@ -16,53 +16,36 @@ Each site shares a consistent structure and editorial standard.
 
 ## Our Philosophy
 
-### Clarity Over Volume  
-We prioritize clear explanations over content quantity.
+- **Clarity Over Volume**  
+  We prioritize clear explanations rather than producing large quantities of content.
 
-### Structure Over Trend  
-We build durable references, not hype-driven tutorials.
+- **Structure Over Trend**  
+  We focus on building durable references instead of following hype-driven tutorials or short-lived trends.
 
-### Practical Over Theoretical  
-Examples are runnable. Patterns are realistic. Advice reflects real development work.
+- **Practical Over Theoretical**  
+  All examples are runnable, patterns are grounded in realistic scenarios, and guidance reflects real development work.
 
-### Openness Over Gatekeeping  
-All projects are open source. Contributions are welcome when they improve clarity and accuracy.
+- **Openness Over Gatekeeping**  
+  All projects are open source, and contributions are welcomed when they improve clarity, accuracy, or structure.
 
-### Longevity Over Immediacy  
-Documentation should age well. Editorial standards exist to preserve quality over time.
+- **Longevity Over Immediacy**  
+  Documentation is written to age well, and editorial standards exist to preserve quality and coherence over time.
 
 ## How the Network Works
 
-All sites share:
+All sites share a common documentation structure, a unified design system, consistent editorial standards, shared search and indexing infrastructure, and clear versioning and review practices.
 
-- A common documentation structure
-- A shared design system
-- Editorial standards for consistency
-- Search and indexing infrastructure
-- Versioning and review tracking
-
-This allows the network to scale without fragmenting.
+This shared foundation allows the network to grow and expand without fragmenting into inconsistent or disconnected projects.
 
 ## Repository Structure
 
-The organization includes:
+The organization contains language-specific reference repositories as well as foundational learning repositories that focus on conceptual understanding. It also includes shared theme and layout systems to maintain visual and structural consistency, editorial standards and contribution guidelines to ensure coherence, and documentation tooling and search infrastructure to support usability.
 
-- Language-specific reference repositories.  
-- Foundational learning repositories.  
-- Shared theme and layout systems.  
-- Editorial standards and contribution guidelines.  
-- Documentation tooling and search indexing.  
-
-Each repository is independently usable but aligned with the broader system.
+Each repository can function independently, but all are aligned with the broader architectural system.
 
 ## Long-Term Vision
 
-OpenLearnNetwork aims to become a durable, reference-grade learning network that:
-
-- Bridges absolute beginners to working developers.
-- Provides language-specific depth without noise.  
-- Maintains consistent structure across all domains.  
-- Serves as public documentation infrastructure. 
+OpenLearnNetwork aims to become a durable, reference-grade learning network that bridges absolute beginners to working developers, provides language-specific depth without unnecessary noise, maintains consistent structure across all domains, and serves as stable public documentation infrastructure for programming education.
 
 Learning resources should feel calm, coherent, and trustworthy.
 
